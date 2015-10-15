@@ -1,4 +1,4 @@
-L2JChronos Server Project [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/koshirou747/Server?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+L2JChronos Server Project [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/koshirou747/Server?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 ==============
 
 L2JChronos Server is an open-source server emulator fully written in Java for the MMORPG Lineage II.
